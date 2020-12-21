@@ -9,5 +9,3 @@ def parceladd(token, description, trknumber, courier):
     r = requests.post("https://web.parcelapp.net/add-ajax.php", headers=headers, data=data)
 
     return r.text
-
-print(parceladd("TOKEN", "DESCRIPTION", "TRKNUMBER", "CARRIER"))
