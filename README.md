@@ -2,7 +2,7 @@
 
 This is an unofficial python API for adding parcels to [Parcel](https://parcelapp.net/). More features may be added in the future.
 
-#### Setup
+### Setup
 
 Add [parceladd.py](https://raw.githubusercontent.com/rynlu/parcelapp-api/main/parceladd.py) to your package directory and import `parceladd()` with the following line:
 
