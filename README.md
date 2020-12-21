@@ -9,7 +9,7 @@ print(parceladd("TOKEN", "DESCRIPTION", "TRKNUMBER", "CARRIER"))
 
 Your token can be found in your [web dashboard](https://web.parcelapp.net/) cookies:
 
-![image-20201220201439439](C:\Users\rynlu\AppData\Roaming\Typora\typora-user-images\image-20201220201439439.png)
+![image-20201220201439439](https://cdn.discordapp.com/attachments/480736870540771329/790386685787504690/unknown.png)
 
 Common carrier codes are:
 
