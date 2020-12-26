@@ -1,6 +1,6 @@
 # List of Carrier Codes
 
-|Carrier <style>width:50%;</style>|Code <style>width:50%;</style>|
+|Carrier|Code|
 |---|---|
 |007EX|ex007|
 |4PX|px|
