@@ -7,7 +7,7 @@ This is an unofficial python API for interacting with the [Parcel app](https://p
 Add [parcelapp-api.py](https://raw.githubusercontent.com/rynlu/parcelapp-api/main/parcelapp-api.py) to your package directory and import functions with the following line:
 
 ```python
-from parceladd import parceladd, parcelrm, parcellist
+from parcelapp-api import parceladd, parcelrm, parcellist
 ```
 
 ### Usage
