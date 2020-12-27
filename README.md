@@ -33,6 +33,6 @@ Your token can be found in your [web dashboard](https://web.parcelapp.net/) cook
 
 Your request URL can be found through your Network tab of DevTools. Open the Network tab and then visit the [web dashboard](https://web.parcelapp.net/) on your browser. Look for a request with the name of `data.php?...` and click on it to get the Request URL. 
 
-![request_url_guide](https://media.discordapp.net/attachments/480736870540771329/792790619817771038/unknown.png)
+![request_url_guide](https://media.discordapp.net/attachments/480736870540771329/792793847712972840/unknown.png)
 
 The carrier codes for USPS, UPS, and FedEx are `usps`, `ups`, and `fedex` respectively. Additional carrier codes can be found [here](https://ryanlau.dev/carriercodes).
