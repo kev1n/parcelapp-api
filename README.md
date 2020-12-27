@@ -21,4 +21,4 @@ Your token can be found in your [web dashboard](https://web.parcelapp.net/) cook
 
 ![image-20201220201439439](https://cdn.discordapp.com/attachments/480736870540771329/790386685787504690/unknown.png)
 
-The carrier codes for USPS, UPS, and FedEx are `usps`, `ups`, and `fedex` respectively. Additional carrier codes can be found [here](https://github.com/ryanlau/parcelapp-api/blob/main/carriercodes.md).
+The carrier codes for USPS, UPS, and FedEx are `usps`, `ups`, and `fedex` respectively. Additional carrier codes can be found [here](https://ryanlau.dev/carriercodes).
