@@ -11,19 +11,27 @@ from parcelapp-api import parceladd, parcelrm, parcellist
 ```
 
 ### Usage
-
 ```python
-print(parceladd("TOKEN", "DESCRIPTION", "TRKNUMBER", "CARRIER CODE"))
+from parcelapp-api import parceladd, parcelrm, parcellist
+from parcelapp-api import Parcel
+```
+
+### Initialization
+```python
+api = Parcel("MY TOKEN")
+```
+```python
+print(api.parceladd("DESCRIPTION", "TRKNUMBER", "CARRIER CODE"))
 > ADDED
 ```
 
 ```python
-print(parcelrm("TOKEN", "TRKNUMBER", "CARRIER CODE"))
+print(api.parcelrm("TRKNUMBER", "CARRIER CODE"))
 > SUCCESS
 ```
 
 ```python
-parcellist("TOKEN", "REQUEST URL")
+api.parcellist("REQUEST URL")
 ```
 
 ### Obtaining Token, Request URL, and Carrier Codes 
