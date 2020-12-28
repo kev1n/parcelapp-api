@@ -10,16 +10,12 @@ Add [parcelapp-api.py](https://raw.githubusercontent.com/rynlu/parcelapp-api/mai
 from parcelapp-api import parceladd, parcelrm, parcellist
 ```
 
-### Usage
-```python
-from parcelapp-api import parceladd, parcelrm, parcellist
-from parcelapp-api import Parcel
-```
-
 ### Initialization
 ```python
 api = Parcel("MY TOKEN")
 ```
+
+### Usage
 ```python
 print(api.parceladd("DESCRIPTION", "TRKNUMBER", "CARRIER CODE"))
 > ADDED
